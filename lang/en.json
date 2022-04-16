@@ -1,0 +1,22 @@
+{
+  "HYPERBOREA.AbilityStr": "Strength",
+  "HYPERBOREA.AbilityCon": "Constitution",
+  "HYPERBOREA.AbilityDex": "Dexterity",
+  "HYPERBOREA.AbilityInt": "Intelligence",
+  "HYPERBOREA.AbilityWis": "Wisdom",
+  "HYPERBOREA.AbilityCha": "Charisma",
+
+  "HYPERBOREA.AbilityStrAbbr": "str",
+  "HYPERBOREA.AbilityConAbbr": "con",
+  "HYPERBOREA.AbilityDexAbbr": "dex",
+  "HYPERBOREA.AbilityIntAbbr": "int",
+  "HYPERBOREA.AbilityWisAbbr": "wis",
+  "HYPERBOREA.AbilityChaAbbr": "cha",
+
+  "HYPERBOREA.EffectCreate": "Create Effect",
+  "HYPERBOREA.EffectToggle": "Toggle Effect",
+  "HYPERBOREA.EffectEdit": "Edit Effect",
+  "HYPERBOREA.EffectDelete": "Delete Effect",
+
+  "HYPERBOREA.Add": "Add"
+}
